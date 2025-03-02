@@ -6,8 +6,8 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       manifest: {
-        name: "Jared's Bang Search",
-        short_name: "Bang Search",
+        name: "Unduck Two",
+        short_name: "Unduck",
         description: "A faster alternative to DuckDuckGo's bang redirects",
         start_url: "/",
         display: "standalone",
