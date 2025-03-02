@@ -11,6 +11,15 @@ export const bangs = [
     u: "https://www.t3.chat/new?q={{{s}}}",
   },
   {
+    c: "Online Services",
+    d: "https://perplexity.ai",
+    r: 0,
+    s: "Perplexity AI",
+    sc: "Perplexity",
+    t: "perp",
+    u: "https://www.perplexity.ai/search/new?q={{{s}}}&copilot=false&s=d",
+  },
+  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
