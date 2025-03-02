@@ -12,7 +12,7 @@ function noSearchDefaultPageRender() {
           <input 
             type="text" 
             class="url-input"
-            value="https://jared-c.com?q=%s"
+            value="https://unduck-two.vercel.app?q=%s"
             readonly 
           />
           <button class="copy-button">
