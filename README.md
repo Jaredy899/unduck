@@ -8,3 +8,11 @@ A faster alternative to DuckDuckGo's bang redirects. This project allows you to 
 2. Set it as your default search engine
 3. Use bang syntax like `!g search term` for Google, `!yt search term` for YouTube, etc.
 4. Set a default bang for when no bang is specified
+
+## Credits
+
+This project is a fork of [unduck](https://github.com/t3dotgg/unduck) by Theo.
+
+```
+https://unduck.link?q=%s
+```
